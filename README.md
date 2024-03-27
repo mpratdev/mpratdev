@@ -1,4 +1,4 @@
-![out](https://github.com/mpratdev/mpratdev/assets/151387316/0854b67d-967b-4e93-ade5-543b9e5655c2)
+![About me](https://github.com/mpratdev/mpratdev/assets/151387316/3b8904eb-ff70-4d1f-bf6c-97799936051b)
 
 ## 👹 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mpratdev&show_icons=true&count_private=true&theme=gruvbox" />
